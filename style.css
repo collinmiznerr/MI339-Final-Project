@@ -1,3 +1,7 @@
 html {
     background: red;
 }
+
+.blog-post1{
+    border-top: 4px dotted #a52a2a;
+}
