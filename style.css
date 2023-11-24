@@ -1,6 +1,10 @@
 html{
-    
+
 }
 .blog-post {
     border-top: 4px dotted #a52a2a;
+}
+
+.img-container {
+    background: #a52a2a
 }
