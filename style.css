@@ -7,6 +7,7 @@ html{
     padding: 50px;
     font-family:'Times New Roman', Times, serif
     background: #807C7C;
+    
 }
 
 .img-container {
@@ -15,4 +16,5 @@ html{
 
 article {
     background: #807C7C;
+    font: #fff
 }
