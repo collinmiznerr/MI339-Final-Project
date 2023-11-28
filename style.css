@@ -9,6 +9,10 @@ html{
     color: #D9D9D9;
 }
 
+header {
+    background: #655656
+}
+
 .sticky, .head-container {
 background: #655656
 postition: sticky;
