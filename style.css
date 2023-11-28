@@ -3,7 +3,7 @@ html{
 
 }
 .blog-post {
-    border-top: 5px dotted #00BFFF;
+    border-top: 5px solid #00BFFF;
     padding: 50px;
     font-family:'Times New Roman', Times, serif
     background: #807C7C;
