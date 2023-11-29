@@ -19,7 +19,6 @@ h1 {
 .sticky, .head-container {
 background: #655656
 postition: sticky;
-top: 1px;
 }
 
 .img-container {
