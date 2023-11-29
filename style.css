@@ -15,18 +15,11 @@ header {
 }
 
 
-.head-container {
-background: #655656
-postition: sticky;
-padding: 20px;
-}
-
 .img-container {
     background: #a52a2a
 }
 
 article {
-    display: flex;
     background: #807C7C;
     font: #fff; 
 }
