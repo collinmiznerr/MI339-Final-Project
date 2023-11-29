@@ -12,13 +12,12 @@ html{
 header {
     background: #655656
 }
-h1 {
-    margin: 0px;
-}
 
-.sticky, .head-container {
+
+.head-container {
 background: #655656
 postition: sticky;
+padding: 1px;
 }
 
 .img-container {
