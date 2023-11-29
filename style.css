@@ -12,6 +12,9 @@ html{
 header {
     background: #655656
 }
+h1 {
+    margin: 1px;
+}
 
 .sticky, .head-container {
 background: #655656
