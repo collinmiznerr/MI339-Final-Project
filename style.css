@@ -16,7 +16,7 @@ header {
 .sticky, .head-container {
 background: #655656
 postition: sticky;
-top: 5px;
+top: 1px;
 }
 
 .img-container {
