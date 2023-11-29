@@ -10,7 +10,7 @@ html{
 }
 
 header {
-    margin: auto;
+    margin: 1px;
     background: #655656
 }
 
@@ -26,6 +26,7 @@ padding: 20px;
 }
 
 article {
+    display: flex;
     background: #807C7C;
     font: #fff; 
 }
