@@ -9,14 +9,16 @@ body {
 }
 .blog-post {
     border-top: 5px solid #00BFFF;
-    padding: 45px;
+    padding: 25px;
     font-family:'Times New Roman', Times, serif
     background: #807C7C;
     color: #D9D9D9;
 }
 
 header {
+  padding: 10px;
     background: #655656
+     
 
 }
 
