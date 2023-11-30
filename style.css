@@ -44,3 +44,30 @@ footer {
 head {
   margin: 3px;
 }
+
+@media screen and (max-width: 616px) {
+
+    }
+  
+  
+  }
+  
+  @media screen and (min-width: 576px) {
+    
+    }
+  }
+  
+  @media screen and (min-width: 768px) {
+   
+    }
+  }
+  
+  @media screen and (min-width: 992px) {
+   
+    }
+  }
+  
+  @media screen and (min-width: 1200px) {
+      
+    }
+  }
