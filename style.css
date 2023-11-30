@@ -23,9 +23,6 @@ h1 {
     margin: 0;
 }
 
-h2 {
-    margin: -1;
-}
 .img-container {
     background: #a52a2a
 }
@@ -37,5 +34,9 @@ article {
 
 footer {
     background: #807C7C;
+    margin: 0;
+}
+
+h2 {
     margin: 0;
 }
