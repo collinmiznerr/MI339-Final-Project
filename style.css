@@ -39,7 +39,8 @@ article {
 
 footer {
     background: #655656;
-    padding: 
+    margin: 0px;
+    padding: 10px;
 }
 
 head {
