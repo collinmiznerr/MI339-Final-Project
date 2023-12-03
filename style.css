@@ -29,7 +29,7 @@ h1 {
 
 .img-container {
 margin-inline: 100px;
-display: flex;
+display:inline-flexbox 100px; 
 
 }
 
