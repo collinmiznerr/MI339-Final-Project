@@ -52,9 +52,6 @@ head {
 margin: 3px;
 }
 
-.img-thumbnail {
-border-color: #00BFFF;
-}
 
 @media screen and (max-width: 616px) {
 
