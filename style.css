@@ -28,6 +28,7 @@ h1 {
 }
 
 .img-container {
+  display: flex;
 
 
 
