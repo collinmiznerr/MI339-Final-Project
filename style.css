@@ -30,6 +30,7 @@ h1 {
 .img-container {
 margin-inline: 100px;
 display:inline-flexbox 100px; 
+padding: 0px;
 
 }
 
