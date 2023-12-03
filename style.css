@@ -42,13 +42,14 @@ article {
 footer {
 margin: 0px;
 padding: 10px;
-background: #655656
-  
+background: #655656  
 }
 
 li {
   display: inline-block;
-  margin-right: 10px; 
+  margin-right: 10px;
+  font-size: 25px;
+  
 }
 
 head {
