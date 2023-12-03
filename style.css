@@ -40,20 +40,15 @@ article {
 }
 
 footer {
-  list-style: none;
-  display: flex;
 margin: 0px;
 padding: 10px;
 background: #655656
   
 }
 
-footer li {
-  list-style: none;
-display: flex;
-margin: 0px;
-padding: 10px;
-background: #655656
+li {
+  display: inline-block;
+  margin-right: 10px; 
 }
 
 head {
