@@ -28,6 +28,7 @@ h1 {
 }
 
 .img-container {
+  float: right;
 
 
 
@@ -42,6 +43,8 @@ footer {
 margin: 0px;
 padding: 10px;
 display: flex;
+background: #655656
+
   
 }
 
